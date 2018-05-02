@@ -1,0 +1,10 @@
+[package]
+name = "outtime"
+version = "0.1.0"
+authors = ["Ryan Barth <ryan@barth.tech>"]
+
+[dependencies]
+clap = "*"
+#chrono = { version = "*", features = ["serde"] }
+#serde = "*"
+#serde_derive = "*"
